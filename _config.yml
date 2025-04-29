@@ -1,0 +1,8 @@
+title: My Portfolio
+description: Welcome to my Jekyll-powered portfolio site!
+baseurl: "" # keep this empty if deploying to username.github.io/repo
+url: "https://yogeshrajput24179.github.io"
+
+remote_theme: pages-themes/cayman
+plugins:
+  - jekyll-remote-theme
